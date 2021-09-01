@@ -20,4 +20,11 @@ public class RestTest {
 		System.out.println("delTwitter");
 	}
 
+	
+	@Test
+	public void deleteTwitter()
+	{
+		System.out.println("deleteTwitter");
+	}
+
 }
